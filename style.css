@@ -1,0 +1,10 @@
+#login {
+	height: 300px;
+	position: relative;
+	top: 250px;
+	border-radius: 5%;
+	box-shadow: 2px 5px 18px #000;	
+	padding: 20px;
+	text-align: center;
+
+}
